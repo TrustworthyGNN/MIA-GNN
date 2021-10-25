@@ -1,7 +1,7 @@
 # Membership Inference Attacks to GNN for Graph Classification
 
 The source code for ICDM2021 paper: "Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications".
-
+The full version of the paper can be found in [https://arxiv.org/abs/2110.08760](https://arxiv.org/abs/2110.08760)
 
 If you make use of this code in your work, please cite the following paper:
 <pre>
